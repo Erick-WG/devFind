@@ -4,7 +4,19 @@
   "bio": "Creating bugs since, 27th/10/2022",
   "avatar": "https://avatars.githubusercontent.com/u/116720470?v=4",
   "portfolio": "https://github.com/Erick-WG",
-  "skills": ["Python", "Django", "JavaScript", "Typescript", "React"],
+  "skills": [
+    "Python",
+    "Django",
+    "JavaScript",
+    "Typescript",
+    "React",
+    "Git & GitHub",
+    "frontend",
+    "backend",
+    "SaSS",
+    "BEM",
+    "Netlify cli"
+  ],
   "social": {
     "GitHub": "https://github.com/Erick-WG",
     "Twitter": "https://twitter.com/erick_gitahi",
